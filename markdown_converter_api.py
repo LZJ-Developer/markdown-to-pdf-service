@@ -106,7 +106,7 @@ if __name__ == "__main__":
         markdown_filename="example.md",
         output_format="docx",
         template_options={
-        "template_doc": "docx_converter/templates/ference.docx",
+        "template_doc": "docx_converter/templates/reference.docx",
         "title": "大语言模型的能力与应用"  # 可选：引用样式
     }
     )
