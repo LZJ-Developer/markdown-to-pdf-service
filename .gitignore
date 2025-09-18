@@ -64,3 +64,10 @@ downloads/
 
 # UV lock file (keep it for reproducible builds)
 # uv.lock
+# 本地开发文件，不提交到远程仓库
+CLAUDE.md
+app_new.py
+cli.py
+docx_to_pdf.py
+markdown_converter.zip
+markdown_converter_api.py
