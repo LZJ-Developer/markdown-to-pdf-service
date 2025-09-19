@@ -71,3 +71,4 @@ cli.py
 docx_to_pdf.py
 markdown_converter.zip
 markdown_converter_api.py
+*.pyc
